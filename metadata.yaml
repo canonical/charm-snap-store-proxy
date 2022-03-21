@@ -7,6 +7,7 @@ description: |
   Devices are registered with the proxy, and all communication with the Store will flow through the proxy.
 series:
   - bionic
+  - focal
 tags:
   - snap
 requires:
