@@ -1,3 +1,6 @@
+# ⛔️ DEPRECATED
+This is no longer supported, please consider using [LP: snap-store-proxy-charm](https://code.launchpad.net/snap-store-proxy-charm) instead.
+
 # snap-store-proxy
 
 ## Description
